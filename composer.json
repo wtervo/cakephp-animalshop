@@ -48,7 +48,6 @@
     },
     "prefer-stable": true,
     "config": {
-        "sort-packages": true,
-        "vendor-dir": "vendor/"
+        "sort-packages": true
     }
 }
