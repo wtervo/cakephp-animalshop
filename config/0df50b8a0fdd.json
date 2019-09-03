@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crucial-weaver-250709",
+  "private_key_id": "0df50b8a0fdd6f8d6b1e9e25eaeb8f523b14ff38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKdC3fj2iD0SfY\n4NB3sqrWmnrqs7UTgZEj/lqh06OXamXLqq7fhXYZnzjqz91SgPZgIzOcH8bb5D3q\n+zn/M0yVQC84EtYY+vu2ND4prKIjeA2fh4bm1nPkNm2dUt0Rg0rpslZTlDlaiV0Q\n+YSQdw4LqlcJemuaRt02UGYG4cVVNocFYiQxTgWv1MlSOcggu9L9DUpXa89AdPis\nDrlUxJUXnGxIfNP3FEFd13OneDc/rWtbmfVsacL+9VDvYSct1seH/17F89+f5MVS\ndBI+RsHCdd5cEunETkxlvxQwKWyAig8LNBfPAqZ8EJM7O0r9KJmH13qyLkBEDJIs\nPBg2waa9AgMBAAECggEABxrksT/bLyUb/OSG7Gx8ymNJhQshg7m8WkMG8z72Ms4t\nHGS1FmscpfGMkdERt1+HRgB2QzhqRjVQZvrCIk6ulV5XSeR/VwkX5GEY/WVtm0kP\nUVX0Sg2kq5GtbyQFViQBcQotNWmySZcgiQP4vwkumQI1Y8PEGvn5sXpI2lz6C+95\n63CmlS4WJCkitMzWAlV2+IgSN5WtT4RoMYZP3LowKUzjg9WIqVFbDGWbEtvam9eQ\nD79V/Uvv9BYeNeKJ5J6mmIKuvD3QsegR/Mk7x/qUTPP44MDUe4vvyBULUENc2djo\n5W9qwZ/zbOQMU3Z1HPT5VydW7BO+WkJiM5/2IogdkQKBgQD4T5PLaPIYxdywBKQW\nIHWagoQALgoSXwKE9YcCKS0D3QYggdHmlFakic7Evwpx/OPavzbAntehNbZVa0wP\n35J2pK+OIBZUeZ1MM+wVT55RAczKjh9IQC3H8kba9gUO/Y9uwC8vyqhD6MuRbpP2\nDdHfZx9eNYjLXL2tCtTiYrSqRwKBgQDQuRTpRkf3WVqeNSYUCpKnHZetCch7vvli\nlGotQoPg+s3bgDTjt/92yiqUJKcKTa0U6tAXWSeV/Dcoe4o1Op3kWSbwYMuhcP2U\nLqVPKZvxePM5kTZGplyyTmy3FAAtvRtEUTejyGSCF47HFc4AaKacSLaLaTSL1Pjq\nsdupTq4k2wKBgHKh0hoSnck/9syvp8yrOX+WBzhKCM5IXFJjQuuFdMmWzNBO/kbT\nblhRYkpD45+R3uLKaY1tByDeOgmfGiMt1GC/UGhtecGPz0UxpyiDdBPzn8ZW7Cwf\nrMLknz9QWi98cS3wvRf0F9AZ9XhzMw1hfeUDp2CHmFpBuzLakELezIbbAoGBAMR6\nNVESM5SHrGHZLisXeM2PccQVvX+fWiqOAxTv1CzoavgBS8hA4F32GPazOfrc+90A\n3TndVwI9Fb8p7AQHVbIqqhkFRSqHrmzbLAnE5WL9tBewtiLzX7cJVBVS4ogrx4sb\n2QB4FwTPIDwQLob7/DqJyCybsDchF9/15Q0PX6aZAoGBAPezWKuGZaEwhABKc8Gs\nsZR084TeghGWUjkeXEUTUnLxCWuPn5yYdov3ZunF3RlWsQQfsRBlos4r8mSN/vBG\n+r8ZFeGXrXXMqk7YpFRq83z6Ck+NTMOjVOK246xpJ6lIKtwfrr4r0L77Zh1OQS3c\nMbCrE00HAN8nULIu2UhsM1GO\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-service-account@crucial-weaver-250709.iam.gserviceaccount.com",
+  "client_id": "112765331257897135912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-service-account%40crucial-weaver-250709.iam.gserviceaccount.com"
+}
