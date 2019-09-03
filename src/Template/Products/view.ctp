@@ -41,9 +41,10 @@
     $("#add-form").submit(function(event) {
         event.preventDefault();
         var form = $(this).serialize();
+        var webroot = <?= $this->request->webroot ?>;
         $.ajax({
             type: "POST",
-            url: "/cakeapp/carts/add",
+            url: [webroot, "/carts/add"].join(""),
             headers: {
                 "X-CSRF-Token": $('[name="_csrfToken"]').val()
             },
