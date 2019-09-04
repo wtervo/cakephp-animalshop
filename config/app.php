@@ -256,7 +256,7 @@ return [
             'className' => Connection::class,
             'driver' => Mysql::class,
             'persistent' => false,
-            'host' => env('DB_IP', null),
+            'host' => env('PROXY_IP', null),
             /*
              * CakePHP will use the default DB port based on the driver selected
              * MySQL on MAMP uses port 8889, MAMP users will want to uncomment
@@ -266,6 +266,7 @@ return [
             'username' => env('DB_USERNAME', null),
             'password' => env('DB_PASSWORD', null),
             'database' => env('DB_NAME', null),
+            'port' => env('PROXY_PORT', null),
             /*
              * You do not need to set this flag to use full utf-8 encoding (internal default since CakePHP 3.6).
              */
